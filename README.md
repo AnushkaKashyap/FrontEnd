@@ -1,4 +1,4 @@
-trying to learn basic front end to Be Product mgr in 5-10 years
+Trying to learn basic front end to Be Product mgr in 5-10 years
 
 Language learning Goal
 1. Html - LVL 4 out 10 [theory 7.5 out 10]
