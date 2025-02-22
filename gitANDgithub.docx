@@ -2,7 +2,11 @@ Learning Git and ghithub
 commands 
 1. git clone -> to clone git repo on system [to download the git repo on system and modify in VS code and later push the changes in the repo]
         got clone [add just repo link - https link - remember the repo must be public OR use SSH (havent learn yet)]
-2. git submit ->
+2. git submit -> 
+3. cd - changing directory 
+        example -> cd subfoldername 
+4.ls - list all elements in the folder
+5. ls -a OR ls - Force [To show all HIDDEN folder of the directory]
 
 Anushka 
 22 Feb 2025 [03:50 PM]
