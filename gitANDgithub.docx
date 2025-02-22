@@ -6,7 +6,7 @@ commands
                 untracked -> new file that git doesnt track
                 modified -> changed
                 staged -> file is ready to be commited
-                unmodified -> unchaged
+                unmodified -> unchanged
 3. cd - changing directory 
         example -> cd subfoldername 
 4.ls - list all elements in the folder
