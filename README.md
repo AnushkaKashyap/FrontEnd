@@ -1,2 +1,13 @@
-# FrontEnd
-LearningFrontEnd
+trying to learn basic front end to Be Product mgr in 5-10 years
+
+Language learning Goal
+1. Html - LVL 4 out 10 [theory 7.5 out 10]
+2. CSS- LVL 4 out 10 [theory 5 out 10]
+3. Scss- LVL NONE
+4. JS - LVL 2 out 10 [theory 4 out 10]
+   
+5. SQL- LVL 2 out 10 [theory 2 out 10]
+6. Python - LVL 4 out 10 
+
+7. RestAPI - LVL NONE
+8. postman API - LVL NONE
