@@ -3,9 +3,9 @@ commands
 1. git clone -> to clone git repo on system [to download the git repo on system and modify in VS code and later push the changes in the repo]
         got clone [add just repo link - https link - remember the repo must be public OR use SSH (havent learn yet)]
 2. git submit -> 
-                untracked -> new file that git doesnt track
-                modified -> changed
-                staged -> file is ready to be commited
+                untracked -> new file that git doesnt track         [new file created in the repo clone BUT not committed to git]
+                modified -> changed                                 [EDITED a file in the repo clone using VS code BUT not committed to git]
+                staged -> file is ready to be commited               [added the 'untracked' + 'modified' files ]
                 unmodified -> unchanged
 3. cd - changing directory 
         example -> cd subfoldername 
